@@ -24,3 +24,13 @@ _config.yml
 
  git status && git add . && git commit -m "update _config.yml" && git push -u origin gh-page
 ```
+git checkout -b Devolp
+git status
+git add .
+git push origin Devolp
+git checkout master
+git merge Devolp
+git add .
+git commit -m "COMENTARIO "
+git push origin master
+
