@@ -22,4 +22,5 @@ _config.yml
  git checkout -b gh-pages
  git push origin gh-pages
 
+ git status && git add . && git commit -m "update _config.yml" && git push -u origin gh-page
 ```
