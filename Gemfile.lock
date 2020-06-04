@@ -227,6 +227,7 @@ PLATFORMS
 DEPENDENCIES
   commonmarker
   github-pages
+  jekyll-feed
 
 BUNDLED WITH
    2.1.4
