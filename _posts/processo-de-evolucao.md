@@ -1,6 +1,6 @@
 ---
 title:  "Processo de evolução"
-date:   2020-01-08 15:04:23
+date:   
 categories: [devops]
 tags: [devops]
 
